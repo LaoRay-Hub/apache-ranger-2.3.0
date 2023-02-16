@@ -10,3 +10,19 @@
 /kms/target/
 /ranger-plugin-classloader/target/
 /target/
+
+/logs/
+*-dev*
+/data/
+/build/
+/packages/
+/*/target/
+
+# idea
+/.idea/
+*/.idea/
+*.iml
+*/*.iml
+
+# Files for the Dalvik VM
+*.dex
