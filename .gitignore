@@ -1,0 +1,12 @@
+# Project exclude paths
+/agents-audit/target/
+/agents-common/target/
+/agents-cred/target/
+/agents-installer/target/
+/credentialbuilder/target/
+/embeddedwebserver/target/
+/intg/target/
+/jisql/target/
+/kms/target/
+/ranger-plugin-classloader/target/
+/target/
