@@ -63,6 +63,14 @@
                     <groupId>org.slf4j</groupId>
                     <artifactId>*</artifactId>
                 </exclusion>
+                <exclusion>
+                    <artifactId>org.restlet</artifactId>
+                    <groupId>org.restlet.jee</groupId>
+                </exclusion>
+                <exclusion>
+                    <artifactId>org.restlet.ext.servlet</artifactId>
+                    <groupId>org.restlet.jee</groupId>
+                </exclusion>
             </exclusions>
         </dependency>
     </dependencies>
